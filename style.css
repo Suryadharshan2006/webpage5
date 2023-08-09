@@ -1,0 +1,77 @@
+.home{
+    background-image: url(playstation\ background\ pic2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1400px;
+}
+.logo img{
+    height: 60px;
+    margin-top: 15px;
+}
+.logo img{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.navlinks{
+     background-color:rgb(25, 105, 136);
+     height: 90px;
+     width: 100%;
+     list-style: none;
+}
+.navlinks ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    align-items: center;
+    padding-left: 55%;
+    justify-content: space-between;
+}
+.navlinks ul li a{
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 34px;
+    margin-right: 20px;
+}
+.playstation1 img{
+    margin-top: 30px;
+    height: 177px;
+    padding: 90px;
+    margin-left: 150px;
+    margin-left: 20px;
+}
+.navbar img{
+    height: 60px;
+    margin-top: 15px;
+}
+.navbar img{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.navbar{
+    background-color:rgb(25, 105, 136);
+    height: 90px;
+    width: 100%;
+    list-style: none;
+}
+.navbar ul{
+   display: flex;
+   list-style: none;
+   text-decoration: none;
+   align-items: center;
+   padding-left: 69%;
+   justify-content: space-between;
+}
+.navbar ul li a{
+   display: flex;
+   align-items: center;
+   color: aliceblue;
+   text-decoration: none;
+   margin-top: 34px;
+   margin-right: 60px;
+}
+
